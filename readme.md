@@ -99,3 +99,6 @@ Obviously because ARCore is not bundled in your app, you're out of control. Pret
 * Session may not hold onto the ITango interface any more.
 * The TangoWrapper may start to include other logic which will be wiped out by my TangoWrapperCustom.
 
+
+
+## Tested working on S8 950u android 7.0
